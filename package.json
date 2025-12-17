@@ -1,0 +1,25 @@
+{
+  "name": "webhook_wb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edingha/webhook_wb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/edingha/webhook_wb/issues"
+  },
+  "homepage": "https://github.com/edingha/webhook_wb#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
